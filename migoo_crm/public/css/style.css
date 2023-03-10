@@ -1,0 +1,74 @@
+/* .navbar {
+    background: #CCD6A6;
+}
+
+.page-head {
+    background: #DAE2B6;
+}
+
+.drop-shadow {
+    box-shadow: var(--shadow-sm);
+    background-color: #DAE2B6 !important;
+}
+
+.page-container {
+    background-color: #F4EAD5;
+}
+
+[data-page-route=Workspaces] .layout-main-section {
+    background-color: #FFFBE9;
+}
+
+.widget.number-widget-box{
+    background-color: thistle;
+} */
+
+.widget.number-widget-box .widget-head .widget-title{
+    font-size: large;
+}
+
+
+.widget.number-widget-box .widget-body .widget-content .number{
+    font-size: 15px;
+}
+
+/* .widget {
+    background-color: #F8E2CF;
+} */
+
+/* .page-form {
+    background-color: coral;
+    height: 400px;
+} */
+
+/* .layout-main-section .frappe-list
+{
+    background-color: black;
+} */
+
+
+.page-title .title-area .title-text {
+    cursor: pointer;
+    margin-bottom: 0;
+    margin-right: var(--margin-sm);
+    max-width: 500px;
+    font-size: x-large;
+}
+
+.widget.number-widget-box .widget-head .widget-title {
+    font-weight: 600;
+    color: var(--heading-color);
+    font-size: larger;
+    margin-top: var(--margin-xs);
+}
+
+.widget.number-widget-box .widget-body .widget-content .number {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 2.4em;
+    color: var(--text-color);
+}
+
+.card-logo{
+    background-color: blue;
+}
