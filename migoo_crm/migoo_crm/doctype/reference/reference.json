@@ -1,0 +1,38 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2023-01-24 12:39:56.417736",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "opportunity_nm",
+  "notes"
+ ],
+ "fields": [
+  {
+   "fieldname": "opportunity_nm",
+   "fieldtype": "Link",
+   "label": "Opportunity No",
+   "options": "Opportunity"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Data",
+   "label": "Notes"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-02-27 16:08:35.161342",
+ "modified_by": "Administrator",
+ "module": "Migoo CRM",
+ "name": "Reference",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
